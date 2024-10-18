@@ -1,0 +1,44 @@
+@media (min-width:1001px)  and (max-width:1200px){
+  
+    
+}
+@media (min-width:0px)  and (max-width:1200px){
+    .container{
+        max-width: 100% !important;
+    }
+   }   
+@media (min-width:501px)  and (max-width:1000px){
+   .organ{
+    font-size: 40px;
+   } 
+   .organ2{
+    font-size: 17px !important;
+   } 
+   .organ3{
+    font-size: 13px;
+   } 
+    
+}
+@media (min-width:0px)  and (max-width:700px){
+    .textkingall{
+        margin-bottom: 10px ;
+    }
+}
+@media (min-width:0px)  and (max-width:770px){
+    .toptext1{
+        width: 90%;
+    }
+}
+@media (min-width:0px)  and (max-width:500px){
+    
+    .organ{
+        font-size: 40px;
+       } 
+       .organ2{
+        font-size: 17px !important;
+       } 
+       .organ3{
+        font-size: 13px;
+       }
+    
+}
